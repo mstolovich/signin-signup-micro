@@ -1,0 +1,296 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Design System/Atoms/LearnMoreLink Default 1`] = `
+<a
+  className="learn-more-link makeStyles-root-1"
+  href="#"
+>
+  <span
+    className="MuiTypography-root learn-more-link__typography makeStyles-title-2 MuiTypography-subtitle1 MuiTypography-colorPrimary"
+  >
+    Learn More...
+  </span>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root learn-more-link__icon-button makeStyles-icon-3 MuiIconButton-colorPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root learn-more-link__arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z"
+        />
+      </svg>
+    </span>
+  </button>
+</a>
+`;
+
+exports[`Storyshots Design System/Atoms/LearnMoreLink With Router 1`] = `
+<a
+  className="learn-more-link makeStyles-root-4"
+  href="/"
+  onClick={[Function]}
+>
+  <span
+    className="MuiTypography-root learn-more-link__typography makeStyles-title-5 MuiTypography-subtitle1 MuiTypography-colorPrimary"
+  >
+    Learn More...
+  </span>
+  <button
+    className="MuiButtonBase-root MuiIconButton-root learn-more-link__icon-button makeStyles-icon-6 MuiIconButton-colorPrimary"
+    disabled={false}
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root learn-more-link__arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z"
+        />
+      </svg>
+    </span>
+  </button>
+</a>
+`;
+
+exports[`Storyshots Pages/Components/Form Signin Form 1`] = `
+<div
+  className="makeStyles-root-7"
+>
+  <form
+    method="post"
+    name="password-reset-form"
+    onSubmit={[Function]}
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7"
+      >
+        <div
+          className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense MuiInputLabel-outlined"
+            data-shrink={false}
+          >
+            E-mail *
+          </label>
+          <div
+            className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+            onClick={[Function]}
+          >
+            <input
+              aria-invalid={false}
+              autoFocus={false}
+              className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense"
+              disabled={false}
+              name="email"
+              onAnimationStart={[Function]}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="E-mail"
+              required={false}
+              type="email"
+              value=""
+            />
+            <fieldset
+              aria-hidden={true}
+              className="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                className="PrivateNotchedOutline-legendLabelled-10"
+              >
+                <span>
+                  E-mail *
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7"
+      >
+        <div
+          className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense MuiInputLabel-outlined"
+            data-shrink={false}
+          >
+            Password *
+          </label>
+          <div
+            className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+            onClick={[Function]}
+          >
+            <input
+              aria-invalid={false}
+              autoFocus={false}
+              className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense"
+              disabled={false}
+              name="password"
+              onAnimationStart={[Function]}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Password"
+              required={false}
+              type="password"
+              value=""
+            />
+            <fieldset
+              aria-hidden={true}
+              className="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                className="PrivateNotchedOutline-legendLabelled-10"
+              >
+                <span>
+                  Password *
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <i>
+            <h6
+              className="MuiTypography-root MuiTypography-subtitle2"
+            >
+              Fields that are marked with * sign are required.
+            </h6>
+          </i>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="submit"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Login
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+        >
+          Forgot your password?
+           
+          <a
+            className="learn-more-link makeStyles-root-12"
+            href="/password-reset-simple"
+            onClick={[Function]}
+          >
+            <span
+              className="MuiTypography-root learn-more-link__typography makeStyles-title-13 MuiTypography-subtitle1 MuiTypography-colorPrimary"
+            >
+              Reset password
+            </span>
+            <button
+              className="MuiButtonBase-root MuiIconButton-root learn-more-link__icon-button makeStyles-icon-14 MuiIconButton-colorPrimary"
+              disabled={false}
+              onBlur={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root learn-more-link__arrow"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z"
+                  />
+                </svg>
+              </span>
+            </button>
+          </a>
+        </h6>
+      </div>
+    </div>
+  </form>
+</div>
+`;
