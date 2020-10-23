@@ -147,7 +147,7 @@ const Form = props => {
           <Grid item xs={12}>
             <Button
               size="large"
-              variant="contained"
+              variant="outlined"
               type="submit"
               color="primary"
             >

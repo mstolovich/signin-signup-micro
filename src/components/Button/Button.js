@@ -25,7 +25,7 @@ Button.propTypes = {
 
     size: PropTypes.oneOf(['small', 'medium', 'large']).isRequired,
 
-    variant: PropTypes.oneOf(['filled', 'outlined', 'standard']).isRequired,
+    variant: PropTypes.oneOf(['contained', 'outlined', 'text']).isRequired,
 
     type: PropTypes.string.isRequired,
 
